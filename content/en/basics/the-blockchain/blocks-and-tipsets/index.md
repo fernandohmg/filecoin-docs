@@ -14,6 +14,7 @@ toc: true
 aliases:
     - "/fvm/concepts/tipsets/"
     - "/developers/smart-contracts/concepts/tipsets/"
+    - "/basics/the-blockchain/tipsets"
 ---
 
 ## Blocks 
